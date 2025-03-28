@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Yixuan Yang, a PhD student at [Duke University](https://duke.edu/).
+
+My personal website: [Yixuan's Homepage](https://yixuanyang.com/).
+
 <!--
 **YeungYathin/YeungYathin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
